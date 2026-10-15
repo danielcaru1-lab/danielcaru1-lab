@@ -41,14 +41,13 @@
 
 ## 🚀 Proyectos destacados
 
+- **[Retención de grupos escolares (EDA)](https://github.com/danielcaru1-lab/Eda-scholastic-travel-retention)**: análisis exploratorio de 2.389 grupos y 56 variables del caso *Scholastic Travel Company* (Darden). La retención global es de 60,7 % y llega a 85,5 % en clientes existentes con viaje de un solo grado.
 - **Pronóstico de ventas retail**: modelo sobre ~2.000 zonas geográficas (RMSE ≈ 10.871).
 - **Segmentación bancaria**: clustering sobre ~47.000 registros siguiendo CRISP-DM.
 - **Market basket analysis**: reglas de asociación Apriori sobre el dataset de Instacart.
 - **Redes neuronales con TensorFlow**: clasificación, regresión y ajuste de hiperparámetros.
 - **Caso de estudio retail multi-tienda**: comparativo de ventas feb 2025 vs. 2026 que identificó una caída de −20,7 % en una tienda, con causas en tráfico, portafolio y mezcla de precios.
 - **Dashboards con Power BI + MCP**: 22 medidas DAX y blueprint de dashboard de 4 páginas para desempeño de vendedores.
-
-> 📌 Repositorio: [Primer-proyecto](https://github.com/danielcaru1-lab/Primer-proyecto)
 
 ## 💼 Trayectoria
 
