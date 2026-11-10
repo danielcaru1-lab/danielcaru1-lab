@@ -41,8 +41,20 @@
 
 ## 🚀 Proyectos destacados
 
-- **[Pronóstico de ventas de supermercado](https://github.com/danielcaru1-lab/store-sales-forecasting)**: series de tiempo con los datos de Kaggle *Store Sales* (Favorita, Ecuador), 1.782 series y 16 días de horizonte. Gradient boosting con validación temporal: 26 % menos error que la mejor regla simple (RMSLE 0,397 en validación y 0,438 en la tabla pública de Kaggle).
-- **[Retención de grupos escolares (EDA)](https://github.com/danielcaru1-lab/Eda-scholastic-travel-retention)**: análisis exploratorio de 2.389 grupos y 56 variables del caso *Scholastic Travel Company* (Darden). La retención global es de 60,7 % y llega a 85,5 % en clientes existentes con viaje de un solo grado.
+### 🛒 [Pronóstico de ventas de supermercado](https://github.com/danielcaru1-lab/store-sales-forecasting)
+
+- **Problema de negocio:** una cadena con 54 tiendas necesita saber cuánto venderá cada familia de producto en los próximos 16 días para planear inventario y reabastecimiento. Pedir de más genera merma; pedir de menos, quiebres de stock.
+- **Qué hice:** gradient boosting sobre 1.782 series diarias (datos de Kaggle *Store Sales*, Favorita, Ecuador), con validación temporal y comparación contra reglas simples de pronóstico.
+- **Resultado:** 26 % menos error que la mejor regla simple (RMSLE 0,397 en validación y 0,438 en la tabla pública de Kaggle). Descarté con evidencia una regla de negocio que empeoraba el pronóstico.
+
+### 🎒 [Retención de grupos escolares](https://github.com/danielcaru1-lab/Eda-scholastic-travel-retention)
+
+- **Problema de negocio:** una empresa de viajes escolares necesita saber qué grupos volverán a contratar el año siguiente, para enfocar su esfuerzo comercial donde hay más riesgo de pérdida.
+- **Qué hice:** análisis exploratorio de 2.389 grupos y 56 variables del caso *Scholastic Travel Company* (Darden), con diagnóstico de calidad de datos y asociación de cada variable con la retención.
+- **Resultado:** la retención va de 22,5 % (clientes nuevos con viajes de varios grados) a 85,5 % (clientes existentes con viaje de un solo grado). Las reuniones con padres casi no se relacionan con retener al grupo.
+
+## 🧪 Otra experiencia en analítica y machine learning
+
 - **Pronóstico de ventas retail**: modelo sobre ~2.000 zonas geográficas (RMSE ≈ 10.871).
 - **Segmentación bancaria**: clustering sobre ~47.000 registros siguiendo CRISP-DM.
 - **Market basket analysis**: reglas de asociación Apriori sobre el dataset de Instacart.
