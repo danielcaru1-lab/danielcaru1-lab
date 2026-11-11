@@ -76,8 +76,4 @@
   <a href="mailto:camelo.ispa@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielcaru1-lab&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-</p>
